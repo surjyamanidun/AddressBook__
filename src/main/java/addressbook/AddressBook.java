@@ -118,8 +118,8 @@ public class AddressBook
 	public static void main(String[] args)
 	{
 
-		 AddressBook user1 = new  AddressBook();//usecase 1 displainf contact book for user
+		 AddressBook user1 = new  AddressBook();//use case 1 displainf contact book for user
 		 user1.display();
 	}
 				
-}
+}	
